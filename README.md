@@ -40,3 +40,6 @@ Dependencies
 Python 3.x
 NumPy
 OpenCV
+
+References:
+Qingtang Su et al., "Color image blind watermarking scheme based on QR decomposition," Signal Processing, 2014.
